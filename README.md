@@ -1,12 +1,12 @@
 # Open-source-transition
 
-Welcome 👋 to my personal chronicle: **from the days of DOS and boxed, proprietary software to the boundless world of Linux and open-source freedom!**
+Welcome 👋 to my personal chronicle: **from the days of DOS and Windows, proprietary software to the boundless world of Linux and open-source freedom!**
 
 ---
 
 ## 🚀 My Evolution: From Locked to Liberated
 
-I began my computer journey in an age when software came in boxes, manuals were thicker than the computers they ran on, and DOS prompts reigned supreme. Soon, I experienced the magic (and sometimes frustration!) of Windows, discovering the polished, mysterious realm of closed source software.
+I began my computer journey in an age when software came in boxes in the beginning of the 90's, manuals were thicker than the computers they ran on, and DOS prompts reigned supreme. Soon, I experienced the magic (and sometimes frustration!) of Windows, discovering the polished, mysterious realm of closed source software.
 
 But curiosity runs deep! As years passed, I started pushing past those digital barriers. The Linux penguin caught my eye—and suddenly, a bright, borderless world of **Free and Open Source Software (FOSS)** opened up.
 
