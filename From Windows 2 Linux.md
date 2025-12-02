@@ -1,7 +1,7 @@
 
 # From Windows 2 Linux
 
-Welcome. Before I tell my story, a quick no-nonsense truth:
+Before I tell my story, a quick no-nonsense truth:
 
 - Windows and Linux are not magic different universes — they are both operating systems. Both boot your hardware, run your programs, manage files, and give you a desktop or a terminal to interact with. They just take different roads to get to the same place. One uses different defaults, different tools, and different assumptions about control and freedom.
 
