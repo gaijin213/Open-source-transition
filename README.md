@@ -41,6 +41,21 @@ One of my main goals is to help others achieve a **very high percentage** of ope
 
 ---
 
+### 🗂️ Menu
+
+- [From Windows 2 Linux](https://github.com/gaijin213/Open-source-transition/blob/main/From%20Windows%202%20Linux)
+
+---
+
+### 🙌 Join the Conversation
+
+Let’s celebrate breaking free! Share your stories, tips, and feedback via [issues](https://github.com/gaijin213/Open-source-transition/issues) or contribute your own guides and scripts!
+
+---
+
+**Your journey to freedom starts now—let’s make it open!**
+````
+
 ### 🙌 Join the Conversation
 
 Let’s celebrate breaking free! Share your stories, tips, and feedback via [issues](https://github.com/gaijin213/Open-source-transition/issues) or contribute your own guides and scripts!
