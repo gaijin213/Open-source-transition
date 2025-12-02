@@ -43,7 +43,7 @@ One of my main goals is to help others achieve a **very high percentage** of ope
 
 ### 🗂️ Menu
 
-- [From Windows 2 Linux](https://github.com/gaijin213/Open-source-transition/blob/main/From%20Windows%202%20Linux)
+- [From Windows 2 Linux](https://github.com/gaijin213/Open-source-transition/blob/main/From%20Windows%202%20Linux.md)
 
 ---
 
