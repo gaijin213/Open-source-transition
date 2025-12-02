@@ -10,7 +10,7 @@ So what's a "distro" then?
 
 ---
 
-## My story — punchy and to the point
+## My story 
 
 I first actually tried Linux in 2008. I’d heard about it for years but never dared to try — until I requested a free Ubuntu CD to try it out. I installed Ubuntu, poked around, loved the idea… but back then the ecosystem still felt thin: some apps were missing, and the system could be unstable for my needs. I went back to Windows (and sometimes Mac) while keeping Linux in the back of my head.
 
