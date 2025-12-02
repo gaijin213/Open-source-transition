@@ -22,7 +22,7 @@ After 2014 I bounced mostly between Linux Mint and Ubuntu, tried Fedora occasion
 
 ---
 
-## TL;DR — Why this matters
+## TL;DR — Why this matter
 - Windows and Linux do the same core jobs — but Linux gives you options, visibility, and control.
 - Distros are just curated collections of Linux software and defaults — pick one that matches how much control you want.
 - My path: curiosity → Ubuntu trial (2008) → BackTrack/Kali (2010–2011) → full-time Ubuntu (2013) → Mint/Debian/Fedora experiments → Arch (2022) → happily staying on Arch.
@@ -30,4 +30,3 @@ After 2014 I bounced mostly between Linux Mint and Ubuntu, tried Fedora occasion
 
 ---
 
-If you want this trimmed, expanded, or turned into a short "about" blurb for a web page, I can adapt it to any length or tone — punchier, more technical, or more beginner-friendly.
