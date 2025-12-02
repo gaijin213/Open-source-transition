@@ -1,4 +1,4 @@
-# Open-source-transition
+# The Open-source transition
 
 Welcome 👋 to my personal chronicle: **from the days of DOS and Windows, proprietary software to the boundless world of Linux and open-source freedom!**
 
