@@ -53,8 +53,4 @@ Let’s celebrate breaking free! Share your stories, tips, and feedback via [iss
 
 ---
 
-Let’s celebrate breaking free! Share your stories, tips, and feedback via [issues](https://github.com/gaijin213/Open-source-transition/issues) or contribute your own guides and scripts!
-
----
-
 **Your journey to freedom starts now—let’s make it open!**
