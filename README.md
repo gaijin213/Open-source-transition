@@ -45,6 +45,7 @@ One of my main goals is to help others achieve a **very high percentage** of ope
 
 - [My Journey from Windows 2 Linux Into](https://github.com/gaijin213/Open-source-transition/blob/main/From%20Windows%202%20Linux.md)
 - [Self hosting Magic Into](https://github.com/gaijin213/Open-source-transition/blob/main/Self%20hosting%20magic.md)
+
 ---
 
 ### 🙌 Join the Conversation
